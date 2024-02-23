@@ -33,10 +33,10 @@ This is a simple currency converter application built to help users convert betw
 Start the app on local server : npm run dev
 
 ## Usage
- Step 1: Enter the Amount and currency which you have to convert in first block (from block)
- Step 2: Select the currency to which you want conversion.
- Step 3: Submit the form by clicking blue button.
- Step 4: You can see the converted amount in to section.
+ ### Step 1: Enter the Amount and currency which you have to convert in first block ("from" block) <br/>
+### Step 2: Select the currency to which you want conversion. <br/>
+ ### Step 3: Submit the form by clicking blue button. <br/>
+ ### Step 4: You can see the converted amount in to section. <br/>
 
 
 
